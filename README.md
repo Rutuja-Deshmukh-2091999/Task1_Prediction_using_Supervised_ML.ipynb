@@ -6,3 +6,5 @@ Problem statement: What will be predicted score if a student studies for 9.25 hr
 # THE SPARKS FOUNDATION 
 
 # GRIPJULY21
+
+![unnamed](https://user-images.githubusercontent.com/84307464/124866596-4cd7ae80-dfda-11eb-9b43-b3a744688808.png)
